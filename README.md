@@ -1,2 +1,2 @@
 # Mood-App
-An App that rates the mood of people(mental wellbeing) depending on some digital factors
+A machine learning web App that predicts mood score based on screen time and digital habits
